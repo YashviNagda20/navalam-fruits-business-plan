@@ -1,4 +1,4 @@
-# 🐉 Navalam Fruits: Dragon Fruit Cultivation Business Plan
+# Navalam Fruits: Dragon Fruit Cultivation Business Plan
 
 > **An end-to-end entrepreneurship and financial analysis project** for a proposed organic dragon fruit farm in Kotda Roha, Kutch, Gujarat, India
 Built for S.K. Somaiya's Entrepreneurship Management course.
